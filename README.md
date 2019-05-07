@@ -40,8 +40,8 @@ As imagens e prints de todas as telas do Highlighter em funcionamento se encontr
 
 O código fonte do Highliter se encontra na pasta codigoFonte.Ou então para encontrar o código fonte original do projeto, você terá que baixar e extrair o Highlighter.rar, abrir a pasta extraida e em seguida acessar os seguintes diretórios:
 
-Para o código fonte do Java: app > src > main > java > com > highlighter > www > highlighter;
-Para o código fonte do XML: app > src > main > res > layout.
+- Para o código fonte do Java: app > src > main > java > com > highlighter > www > highlighter;
+- Para o código fonte do XML: app > src > main > res > layout.
 
 <h1>Participantes do projeto</h1>
 
