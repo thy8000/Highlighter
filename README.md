@@ -42,6 +42,8 @@ O código fonte do Highliter se encontra na pasta codigoFonte.Ou então para enc
 
 - Para o código fonte do Java: app > src > main > java > com > highlighter > www > highlighter;
 - Para o código fonte do XML: app > src > main > res > layout.
+- Para as API's: Se encontram na pasta codigoFonte > API's ou no link https://moreirathunay.000webhostapp.com/.
+- Para o SQL utilizado no servidor: Se encontra na pasta codigoFonte > SQL.
 
 <h1>Participantes do projeto</h1>
 
