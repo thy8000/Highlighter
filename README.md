@@ -12,13 +12,13 @@ Para executar o Highlighter através do próprio Android Studio, primeiramente v
 
 - Android Studio(https://developer.android.com/studio)
 - Java SE Development Kit 8(https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
-- Arquivo Highlighter.rar(Se encontra no repositório)
+- Arquivo Highlighter.rar parte 1 e 2(Se encontra no repositório)
 
 O Android Studio é necessário para criar o apk e rodar no seu celular ou emulador, já o Java SE Development Kit 8 é necessário para compilar qualquer programa na linguagem Java, que é o caso do Highlighter.
 
 Depois que você tiver todos os programas instalados em seu computador, siga os seguintes passos:
 
-- Extraia o Highlighter.rar em um local de sua preferência;
+- Extraia o Highlighter.rar em um local de sua preferência(o highlighter parte 1 e 2 devem estar na mesma pasta, basta extrair o highlighter parte 1 que ele extrai a parte 2 automaticamente);
 - Execute o Android Studio;
 - Execute a pasta que foi extraída do Highlighter.rar dentro do Android Studio;
 - Clique na guia "Run" e clique na opção "Run app" ou utilize o atalho Shift + F10;
