@@ -38,12 +38,12 @@ As imagens e prints de todas as telas do Highlighter em funcionamento se encontr
 
 <h1>Código fonte do aplicativo</h1>
 
-O código fonte do Highliter se encontra na pasta codigoFonte.Ou então para encontrar o código fonte original do projeto, você terá que baixar e extrair o Highlighter.rar, abrir a pasta extraida e em seguida acessar os seguintes diretórios:
+O código fonte e as API's do Highlighter se encontra no CodigoFonte.rar ou no diretório da pasta do Highlighter.rar. Segue abaixo o diretório do Código Fonte do Highlighter.rar:
 
 - Para o código fonte do Java: app > src > main > java > com > highlighter > www > highlighter;
 - Para o código fonte do XML: app > src > main > res > layout.
-- Para as API's: Se encontram na pasta codigoFonte > API's ou no link https://moreirathunay.000webhostapp.com/.
-- Para o SQL utilizado no servidor: Se encontra na pasta codigoFonte > SQL.
+- Para as API's: no link https://moreirathunay.000webhostapp.com/.
+- Para o SQL utilizado no servidor: Se encontra no CodigoFonte.rar > Codigo Fonte > SQL.
 
 <h1>Participantes do projeto</h1>
 
