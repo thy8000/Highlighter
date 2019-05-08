@@ -4,7 +4,7 @@ Highlighter é um aplicativo feito para Android cujo o objetivo é a pesquisa e 
 
 <h1>Sobre o desenvolvimento</h1>
 
-O aplicativo foi desenvolvido no programa Android Studio utilizando a linguagem Java com um pouco de XML. O banco de dados foi feito utilizando o MySQL, e para fazer a conexão do aplicativo com o banco de dados, foi utilizado API's na linguagem PHP que foram hospedadas em um servidor na nuvem.
+O aplicativo foi desenvolvido no programa Android Studio utilizando a linguagem Java com um pouco de XML. O banco de dados foi feito utilizando o MySQL, e para fazer a conexão do aplicativo com o banco de dados, foi utilizado API's na linguagem PHP que foram hospedadas em um servidor na nuvem(https://moreirathunay.000webhostapp.com/).
 
 <h1>Como executar o Highlighter no Android Studio</h1>
 
