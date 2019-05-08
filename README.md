@@ -34,7 +34,7 @@ Para executar o Highlighter instalando o APK é simples, no caso você deverá a
 
 <h1>Imagens do aplicativo</h1>
 
-As imagens e prints de todas as telas do Highlighter em funcionamento se encontram na pasta imagens que se encontram no repositório.
+As imagens e prints de todas as telas do Highlighter em funcionamento se encontram no arquivo Screenshots.rar
 
 <h1>Código fonte do aplicativo</h1>
 
@@ -43,7 +43,7 @@ O código fonte e as API's do Highlighter se encontra no CodigoFonte.rar ou no d
 - Para o código fonte do Java: app > src > main > java > com > highlighter > www > highlighter;
 - Para o código fonte do XML: app > src > main > res > layout.
 - Para as API's: no link https://moreirathunay.000webhostapp.com/.
-- Para o SQL utilizado no servidor: Se encontra no CodigoFonte.rar > Codigo Fonte > SQL.
+- Para o SQL utilizado no servidor: Se encontra no arquivo SQL.rar
 
 <h1>Participantes do projeto</h1>
 
