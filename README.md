@@ -34,7 +34,7 @@ Para executar o Highlighter instalando o APK é simples, no caso você deverá a
 
 <h1>Imagens do aplicativo</h1>
 
-As imagens e prints de todas as telas do Highlighter em funcionamento se encontram no arquivo Screenshots.rar
+As imagens e prints de todas as telas do Highlighter em funcionamento se encontram no arquivo Screenshots.rar ou você pode conferir o portfólio desse projeto com imagens no link https://www.behance.net/gallery/79960877/Highlighter.
 
 <h1>Código fonte do aplicativo</h1>
 
